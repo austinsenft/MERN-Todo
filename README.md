@@ -1,5 +1,6 @@
 # MERN-TODO 
 MERN Todo app with Login and Authentication. Vite, React-Query, React Router 6, MongoDB
+
 Demo of functionality. Used Postman to verify updates and deletes
 
 ## Instructions to Run
