@@ -9,11 +9,16 @@ Demo of functionality. Used Postman to verify updates and deletes
 
 `npm i`
 
-Navigate to server
+-Navigate to server and run 
+
 `node src/index.js`
 
-Navigate to client 
+-Navigate to client and run 
+
 `npm run dev`
+
+
+Reach out if you have any questions or suggestions 	:green_heart:
 
 
 https://user-images.githubusercontent.com/36191945/223549556-02200a06-e725-4027-9519-92673281c387.mov
